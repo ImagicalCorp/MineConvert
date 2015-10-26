@@ -1,11 +1,11 @@
-MConverterUltimate
+# MConverterUltimate
 A map converter for Minecraft PC & PE, supporting world formats LevelDB, Anvil and MCRegion.
 
-How to use the converter for all versions:
+## How to use the converter for all versions:
 
 Import your world in and rename that folder to ‘world’. Run the start.bat file(if you’re on Windows) or start.sh(if you’re on any other platform) to start the converter. The converter will now convert your world to an output folder, or the same original world folder depending on the converter you are using.
 
-Resources:
+## Resources:
 
 This program uses leveldb by tinfoiled at: https://github.com/ljyloo/leveldb
 
