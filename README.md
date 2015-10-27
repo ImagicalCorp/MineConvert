@@ -37,4 +37,4 @@ The [MCRegion to Anvil](https://mojang.com/2012/02/new-minecraft-map-format-anvi
 
 ## Notes
 
-This tool was compiled and is maintained by [Keith](http://github.com/keithkfng) of [Imagical Corporation](http://github.com/ImagicalCorp) mainly for the [Killa Server Network for MCPE](http://www.killasg.ml). This is not a tool for everyone, this is a tool for our intended use. Hopefully you find it useful too.
+This tool was compiled and is maintained by [Keith](http://github.com/keithkfng) of the [Imagical Corporation](http://github.com/ImagicalCorp) mainly for the [Killa Server Network for MCPE](http://www.killasg.ml). This is not a tool for everyone, this is a tool for our intended use. Hopefully you find it useful too.
