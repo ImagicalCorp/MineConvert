@@ -13,7 +13,6 @@ MConverterUltimate are 6 map converters compiled into one for Minecraft. It is b
 
 - Anvil to LevelDB
 - Anvil to MCRegion
-- Anvil to Xbox
 - LevelDB to Anvil
 - MCRegion to Anvil
 - Xbox to Anvil
