@@ -1,0 +1,7 @@
+endian big
+comtype xmemdecompress
+get FILESIZE asize
+math FILESIZE -= 4
+get SIZE long
+get FNAME filename
+clog FNAME 4 FILESIZE SIZE

@@ -1,0 +1,7 @@
+endian big
+comtype gzip
+get FILESIZE asize
+math FILESIZE -= 0
+get SIZE long
+get FNAME filename
+clog FNAME 0 ZSIZE ZSIZE
