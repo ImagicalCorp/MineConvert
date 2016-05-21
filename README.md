@@ -1,6 +1,6 @@
 ﻿# MConverterUltimate
 
-MConverterUltimate are 6 map converters compiled into one for Minecraft. It is built upon [ljyloo's](http://github.com/ljyloo) [LevelDb2Anvil](http://github.com/ljyloo/LevelDb2Avnil) and [Anvil2LevelDb](https://github.com/ljyloo/LevelDb2Avnil/tree/Avnil2LevelDb) converter. 
+MConverterUltimate are 5 map converters compiled into one for Minecraft. It is built upon [ljyloo's](http://github.com/ljyloo) [LevelDb2Anvil](http://github.com/ljyloo/LevelDb2Avnil) and [Anvil2LevelDb](https://github.com/ljyloo/LevelDb2Avnil/tree/Avnil2LevelDb) converter. 
 
 ## Supported World Formats
 
@@ -49,4 +49,4 @@ The [Xbox to Anvil](http://sourceforge.net/projects/xboxtopcminecraftconverter/)
 
 ## Notes
 
-This tool was compiled and is maintained by [Keith](http://github.com/keithkfng) of the [Imagical Corporation](http://github.com/ImagicalCorp) mainly for the [Killa Server Network for MCPE](http://www.killasg.ml). This is not a tool for everyone, this is a tool for our intended use. Hopefully you find it useful too.
+This tool was compiled and is maintained by [Keith](http://github.com/keithkfng) of the [Imagical Corporation](http://github.com/ImagicalCorp). This is not a tool for everyone, this is a tool for our intended use. Hopefully you find it useful too.
