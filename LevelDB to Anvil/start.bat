@@ -1,1 +1,2 @@
-java -jar Converter.jar world worldanvil PAUSE
+java -jar Converter.jar world worldanvil
+PAUSE
