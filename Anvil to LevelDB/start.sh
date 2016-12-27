@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar Converter.jar world worldleveldb 1
+java -jar Converter.jar world/region worldleveldb 1
