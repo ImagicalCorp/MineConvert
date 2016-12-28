@@ -1,5 +1,5 @@
 ## LevelDB to Anvil converter usage
-- Import your Anvil world in and rename that folder to 'world'. 
+- Import your LevelDB world in and rename that folder to 'world'. 
 - Run the start.bat file or start.sh to start the converter.
 - The converter will now convert your world.
 - Once conversion has finished, rename the 'worldanvil' folder to 'region' and create a folder named world.
