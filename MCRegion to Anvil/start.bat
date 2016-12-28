@@ -1,2 +1,3 @@
-java -jar AnvilConverter.jar world
+SET worldpath=""
+java -jar AnvilConverter.jar %worldpath% world
 PAUSE
