@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar Converter.jar world worldanvil
+java -jar Converter.jar world region
