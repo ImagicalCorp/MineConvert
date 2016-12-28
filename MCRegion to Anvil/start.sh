@@ -1,3 +1,3 @@
 #!/bin/bash
 WORLDPATH=""
-java -jar AnvilConverter.jar $WORLDPATH world
+java -jar AnvilConverter.jar "$WORLDPATH" world
