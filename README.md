@@ -13,7 +13,7 @@ MineConvert are 5 map converters compiled into one for Minecraft. It is built up
 ## Warnings - read before you use the programs
 
 - The LevelDB to Anvil and Anvil to LevelDB converters will experience an error if you have blocks which are not supported by Minecraft PC Edition. It will make your .mca files corrupted, so make sure you replace those blocks with another block that is supported.
-- The LevelDB to Anvil and the Anvil to LevelDB converter won't convert your level.dat file. The best fix for this is to generate a new flat world in Minecraft PC(LDB to Anvil) or Minecraft PE(Anvil to LDB), and copy that world's level.dat into your converted world's root folder(where the region folder is located). It is known that the converted land and the generated land won't line up together where they meet. 
+- The LevelDB to Anvil and the Anvil to LevelDB converter won't convert your level.dat file. The best fix for this is to generate a new flat world in Minecraft PC(LDB to Anvil) or Minecraft PE(Anvil to LDB), and copy that world's level.dat into your converted world's root folder(where the region folder is located). It is known that the converted land and the generated land won't line up together where they meet. There is a level.dat file provided for each of the two converters by us.
 
 ## Credits
 
